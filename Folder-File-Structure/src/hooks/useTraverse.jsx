@@ -20,6 +20,9 @@ const userTraverseTree = () =>{
         
     }
 
-    return {insertNode};
+    const deleteNode = () => {};
+    const updateNode = () => {};
+
+    return {insertNode,deleteNode,updateNode};
 }
 export default userTraverseTree;
